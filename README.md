@@ -1,5 +1,18 @@
 ### Hi there 👋
 ### NILOY IS BRAND BRO 👑
+### COMMAND:-
+### rm-NILOY-404
+
+### git clone https://github.com/NILOY-404/NILOY-404.git
+
+### cd NILOY-404
+
+### python NILOY-404
+
+
+### OK INJOY FREE TOOLS ✨💋
+
+
 <!--
 **NILOY-404/NILOY-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
